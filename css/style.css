@@ -19,7 +19,7 @@ body {
     width: 200px;
 }
 .jumbotron h1, .jumbotron p {
-    text-shadow: 6px 7px 13px black;
+    text-shadow: 3px 4px 10px rgba(0,119,216,0.8);
     font-weight: bold;
 }
 hr {
